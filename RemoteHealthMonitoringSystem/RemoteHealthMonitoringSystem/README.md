@@ -1,2 +1,0 @@
-# RemoteHealthMonitoringSystem
-School lab
